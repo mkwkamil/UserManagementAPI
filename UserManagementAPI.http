@@ -1,5 +1,7 @@
 POST http://localhost:5122/users
 Content-Type: application/json
+Authorization: TestingTokenXYZ
+
 
 {
   "name": "Alice Smith",
@@ -9,15 +11,18 @@ Content-Type: application/json
 ###
 
 GET http://localhost:5122/users
+Authorization: TestingTokenXYZ
 
 ###
 
 GET http://localhost:5122/users/1
+Authorization: TestingTokenXYZ
 
 ###
 
 PUT http://localhost:5122/users/5
 Content-Type: application/json
+Authorization: TestingTokenXYZ
 
 {
   "name": "Alice Johnson",
@@ -26,4 +31,10 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:5122/users/4
+DELETE http://localhost:5122/users/1
+Authorization: TestingTokenXYZ
+
+### Test with invalid token
+
+DELETE http://localhost:5122/users/1
+Authorization: TestingToken
