@@ -1,0 +1,29 @@
+POST http://localhost:5122/users
+Content-Type: application/json
+
+{
+  "name": "Alice Smith",
+  "email": "alice.smith@example.com"
+}
+
+###
+
+GET http://localhost:5122/users
+
+###
+
+GET http://localhost:5122/users/1
+
+###
+
+PUT http://localhost:5122/users/5
+Content-Type: application/json
+
+{
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com"
+}
+
+###
+
+DELETE http://localhost:5122/users/4

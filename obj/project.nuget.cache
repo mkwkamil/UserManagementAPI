@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dXb3Wc90p+Y=",
+  "success": true,
+  "projectFilePath": "/Users/kamilporebski/RiderProjects/UserManagementAPI/UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamilporebski/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/swashbuckle.aspnetcore/8.1.4/swashbuckle.aspnetcore.8.1.4.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.4/swashbuckle.aspnetcore.swagger.8.1.4.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.4/swashbuckle.aspnetcore.swaggergen.8.1.4.nupkg.sha512",
+    "/Users/kamilporebski/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.4/swashbuckle.aspnetcore.swaggerui.8.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
