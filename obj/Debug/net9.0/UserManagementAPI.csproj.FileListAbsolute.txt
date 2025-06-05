@@ -34,3 +34,4 @@
 /Users/kamilporebski/RiderProjects/UserManagementAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/kamilporebski/RiderProjects/UserManagementAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/kamilporebski/RiderProjects/UserManagementAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/kamilporebski/RiderProjects/UserManagementAPI/obj/Debug/net9.0/UserManagementAPI.sourcelink.json
